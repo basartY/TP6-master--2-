@@ -1,0 +1,56 @@
+fr.umontpellier.iut.partie1.ContexteTest
+ ✓  test_taquin_2_X_2_sans_solution_2
+ ✓  test_taquin_1_X_100_sans_solution
+ ✓  test_solution_taquin_1D_colonne_en_position_gagnante
+ ✓  test_solution_taquin_2D_colonne_en_position_gagnante
+ ✓  test_solution_taquin_1D_ligne
+ ✓  test_solution_taquin_avec_quelques_mouvements
+ ✓  test_taquin_100_X_1_sans_solution
+ ✓  test_pas_de_leveee_d_exception_pour_resoudre
+ ✓  test_solution_taquin_1D_colonne
+ ✓  test_solution_vide_taquin_1D_colonne
+ ✓  test_la_liste_solution_vide_si_taquin_non_realisable
+ ✓  test_taquin_2_X_2_sans_solution
+fr.umontpellier.iut.partie1.CoupleTest
+ ✓  test_couple_mise_a_jour_frontiere_dejavus_non_modifies
+ ✓  test_couple_getListeDeMouvements
+ ✓  test_couple_mise_a_jour_3_X_3_trou_au_milieu_dejavus_vide
+ ✓  test_mise_a_jour_frontiere_inchange_car_dejavus_contient_tous_les_fils
+ ✓  test_couple_mise_a_jour_3_X_3_trou_en_haut_droite
+ ✓  test_couple_mise_a_jour_3_X_3_trou_au_milieu_dejavus_contien_un_fils
+ ✓  test_couple_mise_a_jour_frontiere_non_modifie
+fr.umontpellier.iut.partie1.TaquinTest
+ ✓  test_generer_Fils_basMilieu
+ ✓  test_pas_gagnant_une_seule_ligne
+ ✓  test_taquin_1D_colonne_estGagnant
+ ✓  test_coherence_equals_et_hashCode
+ ✓  test_taquin_3_X_2_nest_pas_gagnant
+ ✓  test_est_gagnant_une_seule_ligne
+ ✓  test_generer_Fils_coin_3_X_3
+ ✓  test_est_gagnant_une_seule_colonne
+ ✓  test_pas_gagnant_desordre
+ ✓  test_equals_vrai_2_X_3
+ ✓  test_equals_vrai_3_X_2
+ ✓  test_equals_vrai_3_X_3
+ ✓  test_equals_vrai_4_X_4
+ ✓  test_equals_false_3_X_3
+ ✓  test_equals_false_4_X_4
+ ✓  test_trouver_trou_coin_hd_3_X_3
+ ✓  test_trouver_trou_coin_hd_4_X_4
+ ✓  test_pas_gagnant_desordre_zero_debut
+ ✓  test_taquin_1D_ligne_estGagnant
+ ✓  test_taquin_2_X_3_nest_pas_gagnant
+ ✓  test_taquin_1_X_1_gagnant
+ ✓  test_est_gagnant_vrai_3_X_3
+ ✓  test_est_gagnant_vrai_4_X_4
+ ✓  test_est_gagnant_faux_3_X_3
+ ✓  test_est_gagnant_faux_4_X_4
+ ✓  test_taquin_3_X_2_estGagnant
+ ✓  test_pas_gagnant_desordre_zero_a_la_fin
+ ✓  test_pas_gagnant_une_seule_colonne
+ ✓  test_trouver_trou_coin_bd_3_X_3
+ ✓  test_trouver_trou_coin_bd_4_X_4
+ ✓  test_taquin_2_X_3_estGagnant
+
+50 / 50 tests réussis
+Note: 10.00 / 10
